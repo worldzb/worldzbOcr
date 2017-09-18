@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ocr.IdentityOcr">
+    <Position X="4.5" Y="1" Width="2.25" />
+    <Members>
+      <Method Name="ExtractTextFromImage" Hidden="true" />
+      <Method Name="GetAddress" Hidden="true" />
+      <Method Name="GetAgeDate" Hidden="true" />
+      <Method Name="GetAges" Hidden="true" />
+      <Method Name="GetCallPhoneNumber" Hidden="true" />
+      <Method Name="GetCompanyAddress" Hidden="true" />
+      <Method Name="GetCompanyName" Hidden="true" />
+      <Method Name="GetEmail" Hidden="true" />
+      <Method Name="GetEnter" Hidden="true" />
+      <Method Name="GetFax" Hidden="true" />
+      <Method Name="GetGender" Hidden="true" />
+      <Method Name="GetIdentityCodeNumber" Hidden="true" />
+      <Method Name="GetJobName" Hidden="true" />
+      <Method Name="GetName" Hidden="true" />
+      <Method Name="GetNation" Hidden="true" />
+      <Method Name="GetQQ" Hidden="true" />
+      <Method Name="GetSites" Hidden="true" />
+      <Method Name="GetTelephoneNumber" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CgKABCBiCAIBEEQCQQKCAAQACAAEgQAChSAgAAAQhCQ=</HashCode>
+      <FileName>IdentityOcr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ocr.Identity">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAAABAIAQAAgAIAAoAABAkIEAAAAAAAAAQAAAEA=</HashCode>
+      <FileName>IdentityOcr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ocr.PicTools">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IdentityOcr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ocr.OcrLanguage">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IdentityOcr.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
