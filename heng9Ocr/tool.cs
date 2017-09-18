@@ -396,7 +396,7 @@ namespace heng9Ocr
             }
             return strQR;
         }
-        //多条形码识别 方法2
+        //多条形码识别 方法2    
         private List<string> QRMultiReader(Bitmap bmpMultiQR)
         {
             Bitmap bmpMultiQRUse = bmpMultiQR;
