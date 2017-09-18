@@ -37,7 +37,7 @@ namespace test
                 bt=(Bitmap) Bitmap.FromFile(ofg.FileName);
             }
         }
-        
+          
 
         private void button2_Click(object sender, EventArgs e) {
 

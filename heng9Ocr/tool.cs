@@ -406,7 +406,7 @@ namespace heng9Ocr
             float pointY, d = 5, h = 10;//填充用的坐标，填充速率，高度
             str1 = QRcodeReader(bmpMultiQRUse);
             if (str1 == null)
-            {
+            {  
                 corsor++;
                 if (msgBox!=null) {
                     msgBox.Text = "多条码识别尚未有结果" + corsor;

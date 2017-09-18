@@ -21,7 +21,7 @@ namespace heng9Ocr
         QRreader qrReader = new QRreader();
         public bool isOpen;
 
-        //初始化
+        //初始化 
         public Ocr() {
             InitializeComponent();
             qrReader.picBox = PicShow;
